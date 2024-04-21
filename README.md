@@ -17,6 +17,7 @@ The project uses a supervised learning approach, specifically a regression task.
 5. Hyperparameter tuning using techniques like Grid Search to find the best model configuration.
 6. Evaluating the final model
 7. Saving the trained model in binary format for future use and deployment.
+8. See this repository for how I deployed the model with Flask and Heroku: https://github.com/Abhishek-Balram/ml-flask-app
 
 
 ## Acknowledgments
