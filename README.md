@@ -1,6 +1,6 @@
 # Vehicle MPG Regression
 
-This project aims to train a machine learning model to predict the fuel efficiency (miles per gallon) of vehicles based on various attributes such as cylinders, displacement, horsepower, and weight. 
+This project aims to train a machine learning model to predict the fuel efficiency (miles per gallon) of vehicles based on various attributes such as cylinders, displacement, horsepower, and weight.  Also check out this repository for how I deployed the model with Flask and Heroku: https://github.com/Abhishek-Balram/ml-flask-app
 
 ## Dataset
 
